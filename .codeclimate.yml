@@ -1,5 +1,5 @@
 plugins:
-  reek
+  reek:
     enabled: true
     channel: beta
 exclude_patterns:
