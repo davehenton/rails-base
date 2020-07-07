@@ -1,7 +1,7 @@
 plugins:
-  rubocop:
+  reek
     enabled: true
-    channel: rubocop-0-60
+    channel: beta
 exclude_patterns:
 - "config/"
 - "db/"
