@@ -1,7 +1,6 @@
 plugins:
   reek:
     enabled: true
-    channel: beta
 exclude_patterns:
 - "config/"
 - "db/"
